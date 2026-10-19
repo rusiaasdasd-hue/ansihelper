@@ -1,0 +1,12 @@
+{
+  "name": "AnsiHelper",
+  "description": "Adds an /ansi command to easily format text with ANSI colors on mobile.",
+  "authors": [
+    {
+      "name": "YourName",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0"
+}
